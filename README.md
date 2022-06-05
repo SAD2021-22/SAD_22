@@ -70,6 +70,6 @@ Mentre que el servidor gestioni els missatges de un cliente, el mètode acquire,
 Quan s’ha acabat de gestionar els missatges d’un client, cridem al mètode release per tal de librerar el lock aixi permetent l’entrada d’altre client.  
 
 In process:   
-Pero al compilar donava errors que vam poder estudiar-los, però per falta de temps i per haver d’estudiar per l’examen d’altres materies no vam poder gestionar-las.  
+Pero al compilar donava errors que vam poder estudiar-los, però per falta de temps i per haver d’estudiar per l’examen d’altres materies no vam poder gestionar-los.  
 
-També vam intentar refer el chat Client-Servidor utilitzant el GTK en comptes de tkinter però en els nostres portàtils vam tenir problemes amb la instal·lació de gtk i la versió.   
+També vam intentar refer el chat Client-Servidor utilitzant el GTK en comptes de tkinter però en els nostres portàtils vam tenir problemes amb la instal·lació de gtk i la seva versió.   
