@@ -1,0 +1,8 @@
+----------------------------------------------------------------------------
+INFO CÓDIGO
+----------------------------------------------------------------------------
+1.- Programeu una solució genèrica per programar servidors dirigits per events basats en selector NIO.
+2.- 
+3.- The Reactor design pattern handles service requests that are delivered concurrently to an application by one or more clients
+4.- Ahora la tabla de conexiones guarda el nombre y el socketChannel
+
