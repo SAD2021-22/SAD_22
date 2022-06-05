@@ -63,7 +63,7 @@ Complemtament funcional.
 
 chat_PythonTkinter_update: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/chat_PythonTkinter_update
+https://github.com/SAD2021-22/SAD/tree/main/chat_PythonTkinter_update                                                 
 Es la versión de chat python amb les millores proposades pel professor. En aquesta versió hem fet servir el lock per tal de controlar i gestionar els els diferents threads, es a dir per controlar i gestionar l’acces del usuaris al servidor i que no hi hagi solapament entre els diferents threads de diferents clients i per això hem gestionat amb els mètodes de lock.acquire() i lock.release().  
 
 Mentre que el servidor gestioni els missatges de un cliente, el mètode acquire, bloqueja la entrada d’altres clients.  
