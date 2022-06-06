@@ -3,26 +3,26 @@ En aquest repositori estan totes les practiques d'aquest quadrimestre.
 
 P1_noMVC-master: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P1_noMVC-master  
+[https://github.com/SAD2021-22/SAD/tree/main/P1_noMVC-master](https://github.com/SAD2021-22/SAD_22/tree/main/P1_noMVC-master)  
 Primera implementació de la pràctica 1 sense MVC.  
 Completament funcional.  
 
 P1_no_MVC_profe1-master: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P1_no_MVC_profe1-master  
+[https://github.com/SAD2021-22/SAD/tree/main/P1_no_MVC_profe1-master](https://github.com/SAD2021-22/SAD_22/tree/main/P1_noMVC-master)  
 Segona implementació de la pràctica 1 un cop feta la primera sessió de comentaris a classe.  
 S'ha modificat l'algoritme de read a EditableBufferedReader per imitar la proposta de correcció, s'ha de tenir en compte que les Seqüències d'escape són diferents a la VB que a linux natiu. Comentaris i explicacions al codi.  
 Complemtament funcional.  
 
 P1_MVC-master: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P1_MVC-master  
+[https://github.com/SAD2021-22/SAD/tree/main/P1_MVC-master  ](https://github.com/SAD2021-22/SAD_22/tree/main/P1_MVC-master)
 Primera implmentació de la pràctica 1 amb MVC.    
 Completament funcional.  
 
 P1_MVC_corregit-master: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P1_MVC_corregit-master  
+[https://github.com/SAD2021-22/SAD/tree/main/P1_MVC_corregit-master ](https://github.com/SAD2021-22/SAD_22/tree/main/P1_MVC_corregit-master) 
 Segona implmentació de la pràctica 1 amb MVC.  
 Complemtament funcional.  
 Millores realitzades a partir de la sessió de comentaris de codi a classe:
@@ -35,19 +35,19 @@ Millores realitzades a partir de la sessió de comentaris de codi a classe:
 
 P2_ACABADA/xat_consola_java_v3: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P2_ACABADA/xat_consola_java_v3  
+[https://github.com/SAD2021-22/SAD/tree/main/P2_ACABADA/xat_consola_java_v3  ](https://github.com/SAD2021-22/SAD_22/tree/main/P1_MVC_corregit-master)
 Primera implementació de la pràctica 2 -> xat en consola de java.  
 Complemtament funcional.  
 
 P3_v6_FUNCIONAL100: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P3_v6_FUNCIONAL100  
+[https://github.com/SAD2021-22/SAD/tree/main/P3_v6_FUNCIONAL100  ](https://github.com/SAD2021-22/SAD_22/tree/main/P1_MVC_corregit-master)
 Primera implementació de la pràctica 3 -> xat java amb swing i arquitectura NIO.  
 Complemtament funcional.  
 
 P3_v7_ampli_REV: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/P3_v7_ampli_REV  
+[https://github.com/SAD2021-22/SAD/tree/main/P3_v7_ampli_REV ](https://github.com/SAD2021-22/SAD_22/tree/main/chat_PythonTkinter_update) 
 Primera PRE-implmentació de l'ampliació de la pràctica 3:  
 In process:
 * Color al xat
@@ -57,13 +57,13 @@ In process:
 
 xat_Python_FINAL-main: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/xat_Python_FINAL-main  
+[https://github.com/SAD2021-22/SAD/tree/main/xat_Python_FINAL-main ](https://github.com/SAD2021-22/SAD_22/tree/main/P1_MVC_corregit-master) 
 Consisteix en 2 versiones de un chat client-servidor, una en terminal, chat senzill i l'altre en la consola amb el tkinter.
 Complemtament funcional.  
 
 chat_PythonTkinter_update: 
 --
-https://github.com/SAD2021-22/SAD/tree/main/chat_PythonTkinter_update                                                 
+[https://github.com/SAD2021-22/SAD/tree/main/chat_PythonTkinter_update  ](https://github.com/SAD2021-22/SAD_22/tree/main/chat_PythonTkinter_update)                                         
 Es la versión de chat python amb les millores proposades pel professor. En aquesta versió hem fet servir el lock per tal de controlar i gestionar els els diferents threads, es a dir per controlar i gestionar l’acces del usuaris al servidor i que no hi hagi solapament entre els diferents threads de diferents clients i per això hem gestionat amb els mètodes de lock.acquire() i lock.release().  
 
 Mentre que el servidor gestioni els missatges de un cliente, el mètode acquire, bloqueja la entrada d’altres clients.  
